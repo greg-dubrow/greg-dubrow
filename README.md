@@ -1,7 +1,7 @@
+<img src="/header_chart.png" alt="banner" width="45" />
+<img src="/header_code.png" width="50" /> 
 
-![alt-text-1](header_chart.png){width="45%"} ![alt-text-2](header_code.png){width="50%"}
-
-<p align="center">
+<p>
 Hello! 
 
 I am an independent data consultant providing expertise in helping to maximize the impact of your data by providing a range of services including:
