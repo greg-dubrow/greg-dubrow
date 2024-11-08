@@ -4,6 +4,9 @@
 
 <p>
 
+<br>
+<br>
+
 Hello!
 
 I am an independent data consultant providing expertise in helping to maximize the impact of your data by providing a range of services including:
