@@ -1,11 +1,9 @@
-<p>
-<img src="/header_chart.png" align="left" width="400"/> <img src="/header_code.png" align="right" width="300"/>
-</p>
+<img align="left" src="/header_chart.png" width="400"/> 
+<img align="right" src="/header_code.png" width="300"/>
 
 <p>
 
-<br> <br> <br>
-
+<br/><br/><br/><br/><br/>
 
 Hello!
 
