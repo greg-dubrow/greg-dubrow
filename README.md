@@ -1,5 +1,6 @@
-<img src="/header_chart.png" align="left" width="50%"/> 
-<img src="/header_code.png" align="right" width="50%"/>
+<p>
+<img src="/header_chart.png" align="left" width="50%"/> <img src="/header_code.png" align="right" width="50%"/>
+</p>
 
 <p>
 
