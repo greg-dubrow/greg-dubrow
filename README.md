@@ -1,9 +1,12 @@
 <img align="left" src="/header_chart.png" width="400"/> 
 <img align="right" src="/header_code.png" width="400"/>
 
-<br><br><br><br/><br/>
-<p>
+<br/>
+<br/>
+<br/><br/><br/>
 
+
+<p>
 Hello!
 
 I am an independent data consultant providing expertise in helping to maximize the impact of your data by providing a range of services including:
