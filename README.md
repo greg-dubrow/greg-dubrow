@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**greg-dubrow/greg-dubrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt-text-1](header_chart.png){width="45%"} ![alt-text-2](header_code.png){width="50%"}
 
-Here are some ideas to get you started:
+<p align="center">
+Hello! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an independent data consultant providing expertise in helping to maximize the impact of your data by providing a range of services including:
+
+* <u>Data insights</u> - Auditing, cleaning, and exploratory data analysis to help you understand your data and which elements can help to provide meaningful insights and impact.
+
+* <u>Data visualization</u> - Building dashboards and reports that will deliver insights, tell a story, and help with strategic decision-making.
+
+* <u>Program evaluation and outcomes studies</u> - Design descriptive and quasi-experimental evaluations of academic and co-curricular programs.
+
+* <u>Survey design and analysis</u> - Instruments to help you measure the impact of academic and co-curricular programs and events.
+
+* <u>Data quality</u> - Documentation and codebooks to help you keep track of updates and changes.
+
+* <u>Data management</u> - Working with your IT team to help set up a functional and scalable data pipeline.
+
+* <u>Workshops and training</u> - Help your organization foster a data-driven culture with technical and non-technical workshops in data literacy, data visualization, and coding in r.
+
+I have more than 15 years of experience in public higher education in California and Florida, 
+as well as experience as an academic researcher and teacher. 
+I am particularly attuned to the needs of educational institutions and non-profits. 
+
+Learn more about my skills and experience on [LinkedIn](https://www.linkedin.com/in/dubrowg/)
+
+You can see examples of my personal data projects and approach to visualization at [my website](https://www.gregdubrow.io/)  
+
+To inquire about any of my services, send an email to [gkdubrow.data](mailto:gkdubrow.data@gmail.com?subject=Freelance%20Inquiry&body=Body%20text)
+
+</p>
