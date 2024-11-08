@@ -24,6 +24,6 @@ Learn more about my skills and experience on [LinkedIn](https://www.linkedin.com
 
 You can see examples of my personal data projects and approach to visualization at [my website](https://www.gregdubrow.io/)
 
-To inquire about any of my services, send an email to [gkdubrow.data](mailto:gkdubrow.data@gmail.com?subject=Freelance%20Inquiry&body=Body%20text)
+To inquire about any of my services, send an email to [gkdubrow.data@gmail.com](mailto:gkdubrow.data@gmail.com?subject=Freelance%20Inquiry&body=Body%20text)
 
 </p>
