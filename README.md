@@ -26,4 +26,6 @@ You can see examples of my personal data projects and approach to visualization 
 
 To inquire about any of my services, send an email to [gkdubrow.data@gmail.com](mailto:gkdubrow.data@gmail.com?subject=Freelance%20Inquiry&body=Body%20text)
 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greg-dubrow&theme=transparent" />
+
 </p>
